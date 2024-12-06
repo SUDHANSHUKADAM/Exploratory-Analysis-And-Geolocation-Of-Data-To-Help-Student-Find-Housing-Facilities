@@ -55,12 +55,14 @@ Data visualization is the graphical representation of information and data. By u
 A pairplot plot a pairwise relationships in a dataset. The pairplot function creates a grid of Axes such that each variable in data will by shared in the y-axis across a single row and in the x-axis across a single column. That creates plots as shown below.[21]
 
 ![image](https://github.com/user-attachments/assets/79ba04a3-7ec5-4a96-af65-3b30829f277c)
+
 Fig 1 Pairplot
 
 2.Boxplot
 In descriptive statistics, a box plot or boxplot is a method for graphically demonstrating the locality, spread and skewness groups of numerical data through their quartiles.[22]
 
 ![image](https://github.com/user-attachments/assets/f4f30853-e78e-4eed-9983-8b5e336a0625)
+
 Fig 2 Boxplot
 
 Implement K-means clustering on data
@@ -68,11 +70,13 @@ K-Means Unsupervised learning process called clustering divides the unlabelled d
 For the first part the algorithm takes value to be 7 and plots the elbow method graph.
 
 ![image](https://github.com/user-attachments/assets/50e57b7e-74f0-4015-a69c-f8c00c0b793c)
+
 Fig 3 Elbow method when k=7
 
 We will be adding two more columns to the dataset so that the data is more diverse and students can get the maximum benefit. After we will again run the k-means algorithm on the dataset using the optimal value of K by elbow method.
 
 ![image](https://github.com/user-attachments/assets/2c939fc0-9a9f-4cb3-901a-ea07dc870140)
+
 Fig 4 Elbow method k=6
 
 Data cleaning 
@@ -85,7 +89,8 @@ Any type of information that makes it possible to pinpoint the position of a per
 Once we are done with all the processes we come down to the final part that is plotting the results on the map. Plotting accurate data on the map is very important as it proves to be valuable the more accurate the plotting is more helpful it will be. Map plotting is the process of importing data from CRM, ERP or Excel spreadsheets into a web mapping software solution. This enables you to visualize the data geographically instead of simply looking at a pile of numbers, which can provide an enhanced level of insight into your operation. Map plotting solutions allow you to create maps based on your data and supplemented with zip codes, counties, states and key demographic data. These maps can be shared as printed wall maps, image files, or as map URL’s, with other key members of your team. In the situation the maps will give the students approximate idea of what is the ideal location for there stay accordingly they can checkout housing in the given location.[23]
 
 ![image](https://github.com/user-attachments/assets/50596f0f-70a3-496a-8b32-9860d313ea2f)
- Figure 5 Plotted Map
+
+Figure 5 Plotted Map
  
 IV.	RESULTS AND CONCLUSION.
 In order to give this system a frontend in which people can enter the details of the kind of area they want to live in we developed a app. So in this app the person can all the details that are required for a student to find a student a good locality. The fields include GPA, Gender, Employment status, Preferred cuisine, Income/Allowance, Preferred recreational activities. Once the user enters al this details and click on “FIND ME A LOCALITY” he gets a locality found according to the choices that he entered and it will be perfect for him to live in.
@@ -94,16 +99,19 @@ Here are some of the screenshots of the app.
 LOGIN PAGE
 
 ![image](https://github.com/user-attachments/assets/011d3a23-6098-49a8-b86c-77d66ca4f3f4)
+
 Figure 6 Login page
 
 INFO PAGE
 
 ![image](https://github.com/user-attachments/assets/1f820d0f-7c9f-4717-92bb-9559fbcfabd1) 
+
 Figure 7 Info page
 
 FINAL RESULT PAGE
  
 ![image](https://github.com/user-attachments/assets/c53b7284-a901-4df6-8fc8-4c8498118f88)
+
 Figure 8 Result page
 
 This paper gives a conclusive idea about how geolocation can be used for making a app that can used for helping students to find ideal location for there stay during there whole education phase. The results give us the idea of how the app works and how it can used by students for there well being. It also gives a idea of how data cleaning, data visualisation and k-means clustering works. Also how geolocation  of data works. So in a few words this paper gives a brief idea about the entire project.
