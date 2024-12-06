@@ -54,7 +54,8 @@ Data visualization is the graphical representation of information and data. By u
 1.Pairplot
 A pairplot plot a pairwise relationships in a dataset. The pairplot function creates a grid of Axes such that each variable in data will by shared in the y-axis across a single row and in the x-axis across a single column. That creates plots as shown below.[21]
 
-![image](https://github.com/user-attachments/assets/79ba04a3-7ec5-4a96-af65-3b30829f277c)Fig 1 Pairplot
+![image](https://github.com/user-attachments/assets/79ba04a3-7ec5-4a96-af65-3b30829f277c)
+Fig 1 Pairplot
 
 2.Boxplot
 In descriptive statistics, a box plot or boxplot is a method for graphically demonstrating the locality, spread and skewness groups of numerical data through their quartiles.[22]
