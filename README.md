@@ -151,14 +151,23 @@ Currently this system can only give you a locality according to your needs but i
 [4] Analysis and Study Of K-Means Clustering Algorithm, Sudhir Singh and Nasib Singh Gill Dept of Computer Science & Application M. D. University, Rohtak, Haryana
 
 [5] Aftabizadeh, A.R., Wiener, J., Xu, J.M., 1987. Oscillatory and periodic solutions of delay differential equations with piecewise constant argument. Proceedings of the American Mathematical Society 99, 673–679. Andrews, W.K., 1984. Non-strong mixing autoregressive processes. 
-[6] J. Application. Prob. 21, 930–934. Apel, J.R., 1987. Principles of Ocean Physics. Academic Press, London. Box, G.E.P.,
+
+[6] J. Application. Prob. 21, 930–934. Apel, J.R., 1987. Principles of Ocean Physics. Academic Press, London. Box, G.E.P.
+
 [7] Jenkins, G.M., 1976. Time Series Analysis Forecasting and Control. Revised edition, San Francisco 
+
 [8] Holden Day. Casdagli, M., 1989. Nonlinear prediction of chaotic time series. Physica D 35, 335–356. Casdagli, M., 1991. Chaos and deterministic versus stochastic non-linear modeling. 
+
 [9] J. R. Stat. Soc. B 54, 303–328. Caviedes, C.N., 1975. 
+
 [10] El Nino 1972: its climatic, ecological, ˜ human and economic implications. Geographical Review 65, 493–509. 
+
 [11] Cooke, K.L., Wiener, J., 1990. A Survey of Differential Equations with Piecewise Constant Argument, Delay Differential Equations and Dynamical Systems. 
+
 [12] Springer-Verlag, Berlin. Farmer, J.D., Sidorowich, J.J., 1987. Predicting chaotic time series. Phys. Rev. Lett. 59, 845–848
+
 [13] APILayer https://blog.apilayer.com/what-is-geolocation-data-where-to-get-it-and-examples/#:~:text=Free%20Geolocation%20APIs%3F-,What%20Exactly%20is%20Geolocation%20Data%3F,generated%20by%20an%20electronic%20device.
+
 [14] NoBroker https://www.nobroker.in/?utm_source=google&utm_medium=cpc&utm_campaign=Search_Brand_Mumbai&adgroup=Nobroker&gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV8pB3yIkgioiTQAbO0vDvod6H4MW0b55qoArKsri-UaZSI5olcU-ikaAuaXEALw_wcB
 
 [15] Magicbricks https://www.magicbricks.com/
